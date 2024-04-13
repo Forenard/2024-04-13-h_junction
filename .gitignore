@@ -5,8 +5,8 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+# /[Bb]uild/
+# /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
@@ -78,3 +78,8 @@ Other/
 */20240409_nia_carilogo_f/
 */iceyveins_logo_f_ver1.10/
 */hjct-unity/
+
+*.zip
+
+
+/Builds/Unity-draw_Data/StreamingAssets
